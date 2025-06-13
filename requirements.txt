@@ -1,0 +1,7 @@
+streamlit
+astroquery
+spacy
+speechrecognition
+astropy
+sounddevice
+pyaudio
